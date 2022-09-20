@@ -41,4 +41,15 @@
     text-align: center;
     color: white;
   }
+
+  img{
+    max-width: 15%;
+  }
+  video{
+    max-width: 15%;
+  }
+  audio{
+    max-width: 15%;
+    max-height: 15%;
+  }
   
